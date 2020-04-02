@@ -1,2 +1,0 @@
-# HertZ-Server
-Server
